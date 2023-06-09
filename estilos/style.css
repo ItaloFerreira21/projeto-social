@@ -12,8 +12,8 @@ html, body {
 }
 body {
     background-image: url(../pacote-d013/pacote-d013/imagens/fundo-madeira.jpg);
+    background-position: top center;
     background-repeat: no-repeat;
-    background-position: top, center;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -57,7 +57,7 @@ section#redes-sociais img {
     
 }
 section#redes-sociais img:hover{
-    border: 2px solid rgba(255, 255, 255, 0.443); 
+    border: 2px solid rgba(255, 255, 255, 0.443);    
     transform: translate(-3px, -3px);
     transition: transform 0.5s;
 }
